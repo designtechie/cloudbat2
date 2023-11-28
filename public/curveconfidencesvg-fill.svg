@@ -1,0 +1,62 @@
+<svg width="1201" height="1201" viewBox="0 0 1201 1201" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_137_8569)">
+<g clip-path="url(#clip1_137_8569)">
+<path d="M1026.51 0.079834V410.124C1017.83 812.644 770.308 849.169 610.865 857.167C591.12 858.159 6.99922 857.247 0.375 857.167" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M1027.79 339.519V1244.5" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M1087.95 0.079834V1244.5" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M1151.25 0.079834V1244.5" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M574.629 858.298V1244.73" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M515.414 856.821V1243.25" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M452.922 856.821V1243.25" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M396.109 856.821V1243.25" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M639.371 858.298V1244.73" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M704.102 848.558V1244.73" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M768.844 835.286V1244.5" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M833.574 809.666V1244.5" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M898.316 762.166V1244.73" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M963.047 682.663V1244.5" stroke="#EDEDED" stroke-width="2.30809"/>
+<mask id="mask0_137_8569" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="538" y="1014" width="602" height="223">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M538.172 1014.29H1139.83V1236.97H538.172V1014.29Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_137_8569)">
+<path d="M1162.43 1014.29L524.289 1258.95" stroke="#EDEDED" stroke-width="2.30809"/>
+</g>
+<mask id="mask1_137_8569" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="658" y="1104" width="482" height="133">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M658.664 1104.88H1139.83V1236.97H658.664V1104.88Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_137_8569)">
+<path d="M1162.43 1104.88L658.664 1298.02" stroke="#EDEDED" stroke-width="2.30809"/>
+</g>
+<mask id="mask2_137_8569" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="898" y="1194" width="242" height="43">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M898.305 1194.14H1139.83V1236.97H898.305V1194.14Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_137_8569)">
+<path d="M1165.58 1194.14L898.316 1298.02" stroke="#EDEDED" stroke-width="2.30809"/>
+</g>
+<mask id="mask3_137_8569" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="538" y="922" width="602" height="252">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M538.172 922.486H1139.83V1173.25H538.172V922.486Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_137_8569)">
+<path d="M1165.58 922.486L511.492 1173.26" stroke="#EDEDED" stroke-width="2.30809"/>
+</g>
+<path d="M1192.37 821.945L524.289 1077.75" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M1197.82 731.353L522.777 988.636" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M1200.01 647.303L907.641 754.318" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M645.096 855.805L388.574 954.395" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M520.168 857.951L269.844 954.395" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M423.597 857.951L173.262 954.395" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M1195.65 553.445L987.605 631.343" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M1192.36 454.116L1015.98 526.856" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M1191.28 372.26L1026.52 445.657" stroke="#EDEDED" stroke-width="2.30809"/>
+<path d="M1168.71 300.443L1026.52 354.961" stroke="#EDEDED" stroke-width="2.30809"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_137_8569">
+<rect width="1200" height="1200" fill="white" transform="translate(0.410156 0.079834)"/>
+</clipPath>
+<clipPath id="clip1_137_8569">
+<rect width="1200" height="1299.03" fill="white" transform="translate(0.410156 0.079834)"/>
+</clipPath>
+</defs>
+</svg>
