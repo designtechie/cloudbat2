@@ -360,7 +360,7 @@
   max-width: 344.6600036621094px;
 }
 .heading-48 {
-  width: 343.7px;
+  width: 600.7px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -389,8 +389,11 @@
 }
 .learn-more3 {
   position: relative;
+  text-decoration: underline;
   letter-spacing: -0.3px;
-  line-height: 22.5px;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 344.6600036621094px;
 }
 .button8 {
   border-radius: var(--br-6xl);
@@ -400,7 +403,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 9.75px 40.67500305175781px 9.25px 40.875px;
+  padding: 10px 40px 9.25px 40.875px;
 }
 .button7,
 .productbox1 {
@@ -408,6 +411,7 @@
   flex-direction: column;
   align-items: flex-start;
   box-sizing: border-box;
+  
 }
 .button7 {
   width: 343.7px;

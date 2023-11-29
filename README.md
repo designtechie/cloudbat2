@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Cloudbat
 
@@ -8,3 +9,6 @@
   2) In the terminal, run `npm install`
   3) Run `npm start` to view project in browser
   
+=======
+# cloudbat2
+>>>>>>> de7803923c4bd637ba749bfc6f9140e79bd9ebec

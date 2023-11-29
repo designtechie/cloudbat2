@@ -23,7 +23,7 @@
   overflow: hidden;
   flex-shrink: 0;
 }
-.products {
+.products  {
   width: 132px;
   height: 40px;
   display: flex;
@@ -31,7 +31,13 @@
   align-items: center;
   justify-content: center;
   gap: var(--gap-5xs);
+
 }
+.products .a {
+  list-style-type: none;
+  text-decoration: none;
+}
+
 .contact-us,
 .symbol {
   position: relative;
@@ -521,6 +527,7 @@
 .divcolumns1 {
   display: flex;
   justify-content: center;
+  text-decoration: none;
 }
 .button1 {
   cursor: pointer;
@@ -530,6 +537,7 @@
   border-radius: var(--br-6xl);
   flex-direction: row;
   align-items: center;
+  text-decoration: none;
 }
 .big-object,
 .divcolumns1 {
@@ -965,11 +973,11 @@
 }
 .right-img-1 {
   position: absolute;
-  top: 0.5px;
+  top: 50px;
   left: -0.5px;
   border-radius: var(--br-5xs);
   width: 577px;
-  height: 675px;
+  height: 600px;
   object-fit: cover;
 }
 .rightimg {
